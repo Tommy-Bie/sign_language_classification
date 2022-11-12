@@ -1,6 +1,14 @@
-Sign language classification based on CNN by Tommy
+# Sign language classification based on CNN
+
+
 
 ![data](img\data.png)
+
+
+
+
+
+
 
 ![experiment](img\experiment.png)
 
@@ -8,6 +16,8 @@ Sign language classification based on CNN by Tommy
 
 
 
-![1](img\1.png)
+<img src="img\result1.png" alt="1" style="zoom: 50%;" />
 
-![2](img\2.png)
+
+
+<img src="img\result2.png" alt="2" style="zoom: 50%;" />
