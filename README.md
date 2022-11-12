@@ -2,15 +2,17 @@
 
 
 
-![data](img\data.png)
+Dataset Examples
+
+<img src="img\data.png" alt="data" style="zoom: 67%;" />
 
 
 
 
 
+Experiments
 
-
-![experiment](img\experiment.png)
+<img src="img\experiment.png" alt="experiment" style="zoom: 67%;" />
 
 
 
